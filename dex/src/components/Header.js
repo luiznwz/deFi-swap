@@ -1,6 +1,6 @@
 import React from "react";
-import Eth from "../eth.svg";
 import { Link } from "react-router-dom";
+import Eth from "../eth.svg";
 
 export default function Header() {
   return (
